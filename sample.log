@@ -1,0 +1,6 @@
+2026-11-11 08:15:02 INFO User 'jdoe' logged in successfully.
+2026-11-11 08:17:45 WARNING Disk usage on /dev/sda1 reached 82%.
+2026-11-11 08:20:11 ERROR Failed to connect to database server 10.0.1.50: Timeout.
+2026-11-11 08:22:30 INFO Scheduled backup completed.
+2026-11-11 08:25:04 CRITICAL Service 'Apache2' stopped unexpectedly.
+2026-11-11 08:30:19 ERROR Access denied for user 'admin' from IP 192.168.1.105.

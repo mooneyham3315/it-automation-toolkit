@@ -1,0 +1,4 @@
+Line_Number,Matched_Keyword,Log_Entry
+3,ERROR,2026-11-11 08:20:11 ERROR Failed to connect to database server 10.0.1.50: Timeout.
+5,CRITICAL,2026-11-11 08:25:04 CRITICAL Service 'Apache2' stopped unexpectedly.
+6,ERROR,2026-11-11 08:30:19 ERROR Access denied for user 'admin' from IP 192.168.1.105.
